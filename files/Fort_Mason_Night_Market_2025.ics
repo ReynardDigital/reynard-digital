@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//Fort Mason Night Market 2025//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fortmason-20250418T160000@fortmason.org
+DTSTAMP:20250419T080000Z
+DTSTART;TZID=America/Los_Angeles:20250418T160000
+DTEND;TZID=America/Los_Angeles:20250418T210000
+SUMMARY:Fort Mason Night Market
+LOCATION:Fort Mason Center for Arts & Culture\, 2 Marina Blvd\, San Francisco
+DESCRIPTION:Artisan Market\; Culinary Delights\; Live Entertainment\; Workshops\; Public Art\; Extended Hours\; Scenic Views
+END:VEVENT
+BEGIN:VEVENT
+UID:fortmason-20250530T160000@fortmason.org
+DTSTAMP:20250419T080000Z
+DTSTART;TZID=America/Los_Angeles:20250530T160000
+DTEND;TZID=America/Los_Angeles:20250530T210000
+SUMMARY:Fort Mason Night Market
+LOCATION:Fort Mason Center for Arts & Culture\, 2 Marina Blvd\, San Francisco
+DESCRIPTION:Artisan Market\; Culinary Delights\; Live Entertainment\; Workshops\; Public Art\; Extended Hours\; Scenic Views
+END:VEVENT
+BEGIN:VEVENT
+UID:fortmason-20250627T160000@fortmason.org
+DTSTAMP:20250419T080000Z
+DTSTART;TZID=America/Los_Angeles:20250627T160000
+DTEND;TZID=America/Los_Angeles:20250627T210000
+SUMMARY:Fort Mason Night Market
+LOCATION:Fort Mason Center for Arts & Culture\, 2 Marina Blvd\, San Francisco
+DESCRIPTION:Artisan Market\; Culinary Delights\; Live Entertainment\; Workshops\; Public Art\; Extended Hours\; Scenic Views
+END:VEVENT
+BEGIN:VEVENT
+UID:fortmason-20250718T160000@fortmason.org
+DTSTAMP:20250419T080000Z
+DTSTART;TZID=America/Los_Angeles:20250718T160000
+DTEND;TZID=America/Los_Angeles:20250718T210000
+SUMMARY:Fort Mason Night Market
+LOCATION:Fort Mason Center for Arts & Culture\, 2 Marina Blvd\, San Francisco
+DESCRIPTION:Artisan Market\; Culinary Delights\; Live Entertainment\; Workshops\; Public Art\; Extended Hours\; Scenic Views
+END:VEVENT
+BEGIN:VEVENT
+UID:fortmason-20250905T160000@fortmason.org
+DTSTAMP:20250419T080000Z
+DTSTART;TZID=America/Los_Angeles:20250905T160000
+DTEND;TZID=America/Los_Angeles:20250905T210000
+SUMMARY:Fort Mason Night Market
+LOCATION:Fort Mason Center for Arts & Culture\, 2 Marina Blvd\, San Francisco
+DESCRIPTION:Artisan Market\; Culinary Delights\; Live Entertainment\; Workshops\; Public Art\; Extended Hours\; Scenic Views
+END:VEVENT
+BEGIN:VEVENT
+UID:fortmason-20251017T160000@fortmason.org
+DTSTAMP:20250419T080000Z
+DTSTART;TZID=America/Los_Angeles:20251017T160000
+DTEND;TZID=America/Los_Angeles:20251017T210000
+SUMMARY:Fort Mason Night Market
+LOCATION:Fort Mason Center for Arts & Culture\, 2 Marina Blvd\, San Francisco
+DESCRIPTION:Artisan Market\; Culinary Delights\; Live Entertainment\; Workshops\; Public Art\; Extended Hours\; Scenic Views
+END:VEVENT
+BEGIN:VEVENT
+UID:fortmason-20251212T160000@fortmason.org
+DTSTAMP:20250419T080000Z
+DTSTART;TZID=America/Los_Angeles:20251212T160000
+DTEND;TZID=America/Los_Angeles:20251212T210000
+SUMMARY:Fort Mason Night Market
+LOCATION:Fort Mason Center for Arts & Culture\, 2 Marina Blvd\, San Francisco
+DESCRIPTION:Artisan Market\; Culinary Delights\; Live Entertainment\; Workshops\; Public Art\; Extended Hours\; Scenic Views
+END:VEVENT
+END:VCALENDAR
